@@ -14,9 +14,8 @@ In the meantime, you can check out my other [completed projects](https://github.
 <div align="left">
     <a href="https://linkedin.com/in/fedor-kirillow-80752a292/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"/></a>
   <a href="https://t.me/fervello" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="telegram logo"/></a></br></br>
-  <a href="fedor.kirillow@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="10" alt="gmail logo"/></a>   fedor.kirillow@gmail.com
-
-
+  <a href="fedor.kirillow@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="10" alt="gmail logo"/></a>   
+    fedor.kirillow@gmail.com 
 </div>
 
 
@@ -29,18 +28,8 @@ In the meantime, you can check out my other [completed projects](https://github.
 </div>
 
 
-
 <!--
-https://www.linkedin.com/in/fedor-kirillow-80752a292/
-https://linkedin.com/in/fedor-kirillow-80752a292/
-https://linkedin.com/in/gautamkrishnar
-**Fedor-Kirillow/Fedor-Kirillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="60" height="60" />
-@fervello
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -49,11 +38,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Fedor-Kirillow&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedor-Kirillow&layout=compact" />
-
 -->
