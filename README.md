@@ -6,9 +6,7 @@
 - 🎞 collection of information from the KinoPoisk by parsing and further analysis of the collected data;
 - 📱 📊 analysis and visualization of time spent by the user in mobile applications.
 
-
-#### In the meantime, you can check out my other [completed projects](https://github.com/Fedor-Kirillow/Other_projects)
-
+In the meantime, you can check out my other [completed projects](https://github.com/Fedor-Kirillow/Other_projects)
 
 ### Languages and Tools:
 
