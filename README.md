@@ -12,10 +12,11 @@ In the meantime, you can check out my other [completed projects](https://github.
 ### Connect with me:
 
 <div align="left">
+    <a href="https://linkedin.com/in/fedor-kirillow-80752a292/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"/></a>
+  <a href="https://t.me/fervello" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="telegram logo"/></a></br></br>
   <a href="fedor.kirillow@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="10" alt="gmail logo"/></a>   fedor.kirillow@gmail.com
-</br></br>
-  <a href="https://linkedin.com/in/fedor-kirillow-80752a292/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"/></a>
-  <a href="https://t.me/fervello" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="telegram logo"/></a>
+
+
 </div>
 
 
