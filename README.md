@@ -13,8 +13,8 @@ In the meantime, you can check out my other [completed projects](https://github.
 
 <div align="left">
   <a href="fedor.kirillow@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"/></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="telegram logo"/>
+  <a href="https://linkedin.com/in/fedor-kirillow-80752a292/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"/></a>
+  <a href="https://t.me/fervello" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="40" alt="telegram logo"/></a>
 </div>
 
 
@@ -26,7 +26,12 @@ In the meantime, you can check out my other [completed projects](https://github.
   <img align="left" alt="jupiter notebook" src="https://github.com/jupyter/notebook/blob/main/jupyter.svg" alt="jupiter-notebook" width="50" height="50"/>
 </div>
 
+
+
 <!--
+https://www.linkedin.com/in/fedor-kirillow-80752a292/
+https://linkedin.com/in/fedor-kirillow-80752a292/
+https://linkedin.com/in/gautamkrishnar
 **Fedor-Kirillow/Fedor-Kirillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="60" height="60" />
 @fervello
